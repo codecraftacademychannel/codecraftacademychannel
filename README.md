@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **codecraftacademychannel/codecraftacademychannel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Welcome to CodeCraft Academy!
+
+Your go-to destination for mastering programming logic, diving into languages like **C** and **C#**, and uncovering the secrets behind databases. Whether you're a curious beginner or a seasoned developer, this is the perfect place to expand your knowledge and skills.
+
+## Please, visit:
+- [CodeCraft Academy on YouTube](https://www.youtube.com/@Code.Craft.Academy)
+- [CodeCraft Academy on Bitbucket](https://bitbucket.org/codecraftacademy)
